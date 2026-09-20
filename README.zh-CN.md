@@ -5,7 +5,7 @@
 
 # NBA 球馆建模作品
 
-一座主场，很多值得认真做的小细节。这里收藏持续制作的 NBA 球馆模型，首件作品是 **大通中心**：球场与看台属于内景，金属立面、入口与广场属于外景。同一座建筑，在两个玻璃盒里慢慢看。
+一座主场，很多值得认真做的小细节。这里收藏持续制作的 NBA 球馆模型，首件作品是 **大通中心**：球场与看台属于内景，金属立面、入口与广场属于外景。同一座建筑，在两个玻璃盒里慢慢看。亮黄、钴蓝与漫画网点，把建筑收藏带到热闹的篮球波普世界。
 
 <table><tr><td width="50%"><img src="assets/arena-case.png" alt="Chase Center interior / 大通中心内景"></td><td width="50%"><img src="assets/exterior-case.png" alt="Chase Center exterior / 大通中心外景"></td></tr><tr><td align="center">01 / THE COURT · 内景</td><td align="center">02 / THE CITY · 外景</td></tr></table>
 
@@ -40,4 +40,4 @@
 [完整说明](ASSET-USAGE.md) · [素材记录](CREDITS.md)
 
 <p align="center"><img src="assets/warriors.svg" height="48" alt="Golden State Warriors"> &nbsp;&nbsp; <img src="assets/nba.svg" height="44" alt="NBA"></p>
-<p align="center"><sub>CHEFZC ATELIER · 一座主场，下一座主场。<br>保持热忱，保持热爱 · VIVA LA VIDA</sub></p>
+<p align="center"><sub>COURTSIDE POP EDITION · COBALT / YELLOW / HOT PINK<br>CHEFZC ATELIER · 一座主场，下一座主场。<br>保持热忱，保持热爱 · VIVA LA VIDA</sub></p>

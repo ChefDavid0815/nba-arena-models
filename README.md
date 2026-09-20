@@ -5,7 +5,7 @@
 
 # NBA Arena Models
 
-A home court is made of small things worth looking at closely. This growing collection begins with **Chase Center**: court and tiers inside; cladding, entrances and plaza outside. One building, two glass cases.
+A home court is made of small things worth looking at closely. This growing collection begins with **Chase Center**: court and tiers inside; cladding, entrances and plaza outside. One building, two glass cases — framed by electric cobalt, bright yellow and comic-book halftones.
 
 <table><tr><td width="50%"><img src="assets/arena-case.png" alt="Chase Center interior / 大通中心内景"></td><td width="50%"><img src="assets/exterior-case.png" alt="Chase Center exterior / 大通中心外景"></td></tr><tr><td align="center">01 / THE COURT · 内景</td><td align="center">02 / THE CITY · 外景</td></tr></table>
 
@@ -40,4 +40,4 @@ Free to download. Modeling files, required materials/textures and import notes o
 [Full usage notes](ASSET-USAGE.md) · [Asset credits](CREDITS.md)
 
 <p align="center"><img src="assets/warriors.svg" height="48" alt="Golden State Warriors"> &nbsp;&nbsp; <img src="assets/nba.svg" height="44" alt="NBA"></p>
-<p align="center"><sub>CHEFZC ATELIER · ONE HOME COURT. ROOM FOR ANOTHER.<br>保持热忱，保持热爱 · VIVA LA VIDA</sub></p>
+<p align="center"><sub>COURTSIDE POP EDITION · COBALT / YELLOW / HOT PINK<br>CHEFZC ATELIER · ONE HOME COURT. ROOM FOR ANOTHER.<br>保持热忱，保持热爱 · VIVA LA VIDA</sub></p>
