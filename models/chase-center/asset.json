@@ -1,0 +1,14 @@
+{
+  "id": "chase-center",
+  "title": "Chase Center",
+  "version": "0.1.0",
+  "checkpoint": 80,
+  "release": "https://github.com/ChefDavid0815/nba-arena-models/releases/tag/v0.1.0",
+  "download": "https://github.com/ChefDavid0815/nba-arena-models/releases/download/v0.1.0/ChaseCenter-v0.1.0.zip",
+  "exhibition": "https://chefzc-homepage.vercel.app/models-gallery.html#project-chase-center",
+  "previewOnly": [
+    "arena",
+    "exterior"
+  ],
+  "status": "prototype"
+}

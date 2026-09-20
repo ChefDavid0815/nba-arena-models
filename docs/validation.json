@@ -1,0 +1,29 @@
+{
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "results": [
+    {
+      "name": "ChaseInterior",
+      "file": "ChaseCenter_Cutaway.fbx",
+      "skeletal": false,
+      "objects": [
+        {
+          "name": "ChaseInterior",
+          "class": "StaticMesh"
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "ChaseExterior",
+      "file": "ChaseCenter_Exterior.fbx",
+      "skeletal": false,
+      "objects": [
+        {
+          "name": "ChaseExterior",
+          "class": "StaticMesh"
+        }
+      ],
+      "passed": true
+    }
+  ]
+}
